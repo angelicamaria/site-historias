@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+p {
+  text-align: justify;
+  text-indent: 50px;
+}
+div#interface{
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+  width: 700px;
+  margin: -20px auto 0px auto;
+  padding: 20px;
+  background-color: #E8E8F0;
+}
+
+body {
+  background-color: #9068;
+}
+
